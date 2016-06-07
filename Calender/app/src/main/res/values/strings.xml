@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="action_settings">Settings</string>
+    <string name="newEvent">New Event</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="enterName">Enter the assignment\'s name:</string>
+    <string name="Estimatetime">Enter the estimated amount of time in hours:</string>
+    <string name="courseName">Enter the course\'s name:</string>
+    <string name="dueDate">Enter the due date:</string>
+    <string name="title_activity_class_view">ClassView</string>
+    <string name="VbyClass">View by class</string>
+    <string name="title_activity_cv_test">CvTest</string>
+    <string name="title_activity_edit_event">editEvent</string>
+</resources>
